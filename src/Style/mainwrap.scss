@@ -1,0 +1,18 @@
+.container{
+
+    display:  flex ; 
+    flex-flow:wrap row ;
+    
+
+}
+
+.leftside {
+    justify-items: flex-start;
+
+    // display: block; 
+    // flex-direction:column; 
+    // flex-wrap: wrap;
+    
+    
+
+}
